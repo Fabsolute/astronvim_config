@@ -12,7 +12,6 @@ return {
         "phpactor",
         "tsserver",
         "gopls",
-        "csharp_ls",
         "clangd",
         "jdtls",
         "kotlin_language_server",
